@@ -1,8 +1,3 @@
-## Hi I am MackyDev 
-Crafting the web, one line of code at a time. Let's build the future, together.
-
-# 👨‍💻 Web Developer
-
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" class="">
     <defs>
         <style/>
@@ -80,6 +75,3 @@ Crafting the web, one line of code at a time. Let's build the future, together.
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
 </svg>
-
-
-
